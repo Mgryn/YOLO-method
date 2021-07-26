@@ -1,4 +1,4 @@
-#"You Only Look Once" - YOLO object detection
+# "You Only Look Once" - YOLO object detection
 
 ## Overview
 
